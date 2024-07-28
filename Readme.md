@@ -77,11 +77,10 @@ URL: GET '/balance_sheet'
 Data Validation
 User Inputs:
 
-    Ensure email, name, and mobile number are provided when creating a user.
-    Ensure description, amount, user ID, split method, and split details are provided when adding an expense.
-    Percentage Split Validation:
-
-    Ensure percentages add up to 100%.
+Ensure email, name, and mobile number are provided when creating a user.
+Ensure description, amount, user ID, split method, and split details are provided when adding an expense.
+Percentage Split Validation:
+Ensure percentages add up to 100%.
 
 
 Code Quality
